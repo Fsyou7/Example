@@ -1,0 +1,4 @@
+Example
+=======
+
+Git class example
